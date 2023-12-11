@@ -1,0 +1,1041 @@
+{
+    "resultaten": [
+        {
+            "bedrijfscode": "0924922",
+            "diversen": {
+                "diversen": {
+                    "actief": false,
+                    "afdelingscode": "9298323",
+                    "bouwjaar2": 1993,
+                    "bouwjaar3": 2003,
+                    "bouwjaar4": null,
+                    "bouwjaar5": null,
+                    "bouwjaaromschrijving2": "Gebouwd in 1993 onder voorwaarde ....",
+                    "bouwjaaromschrijving3": null,
+                    "bouwjaaromschrijving4": null,
+                    "bouwjaaromschrijving5": null,
+                    "bouwvorm": "NIEUWBOUW",
+                    "collegialeInformatie": null,
+                    "eigenBelang": false,
+                    "informatieplicht": [
+                        "AANSCHRIJVING_B_EN_W"
+                    ],
+                    "invoerdatum": "2023-11-22",
+                    "objectcode": "EG223271",
+                    "situatie": "INPANDIG",
+                    "status": "GEEN_WOONRUIMTE_AANWEZIG",
+                    "tiaraDossierId": 0,
+                    "tiaraObjectGuid": null,
+                    "tiaraObjectId": null,
+                    "transactietoelichting": null,
+                    "type": "BEDRIJFSRUIMTE",
+                    "vertrouwelijk": false,
+                    "wijzigingsdatum": "2023-11-22T10:55:46.225Z",
+                    "woonoppervlak": null
+                },
+                "kadaster": [
+                    {
+                        "kadastergegevens": {
+                            "aandeel": "A323",
+                            "afgekochtTot": "2023-11-22",
+                            "afkoopoptie": false,
+                            "eeuwigAfgekocht": false,
+                            "eigendomssoort": "VOLLE_EIGENDOM",
+                            "einddatum": "2023-11-22T10:55:46.225Z",
+                            "erfpachtPerJaar": 0,
+                            "erfpachtduur": "EEUWIG",
+                            "erfpachtgever": "GEMEENTE",
+                            "erfpachtprijsvorm": "VARIABEL",
+                            "gemeente": "VLISSINGEN",
+                            "gemeentecode": "12334",
+                            "indexnummer": "12334",
+                            "invoerdatum": "2023-11-22",
+                            "omvang": "GEHEEL_PERCEEL",
+                            "oppervlakte": 0,
+                            "perceel": "A323",
+                            "sectie": null,
+                            "wijzigingsdatum": "2023-11-22T10:55:46.225Z"
+                        }
+                    },
+                    {
+                        "kadastergegevens": {
+                            "aandeel": "A324",
+                            "afgekochtTot": "2023-11-22",
+                            "afkoopoptie": false,
+                            "eeuwigAfgekocht": false,
+                            "eigendomssoort": "VOLLE_EIGENDOM",
+                            "einddatum": "2023-11-22T10:55:46.225Z",
+                            "erfpachtPerJaar": 0,
+                            "erfpachtduur": "EEUWIG",
+                            "erfpachtgever": "GEMEENTE",
+                            "erfpachtprijsvorm": "VARIABEL",
+                            "gemeente": "VLISSINGEN",
+                            "gemeentecode": "12335",
+                            "indexnummer": "12335",
+                            "invoerdatum": "2023-11-22",
+                            "omvang": "GEHEEL_PERCEEL",
+                            "oppervlakte": 0,
+                            "perceel": "A323",
+                            "sectie": null,
+                            "wijzigingsdatum": "2023-11-22T10:55:46.225Z"
+                        }
+                    }
+                ]
+            },
+            "financieel": {
+                "overdracht": {
+                    "koopEnOfHuur": {
+                        "aanmeldingsreden": "IN_VERKOOP_GENOMEN",
+                        "aanvaarding": "IN_OVERLEG",
+                        "aanvaardingsdatum": "2023-11-22",
+                        "aanvaardingstoelichting": null,
+                        "bouwrente": false,
+                        "btwVanToepassing": false,
+                        "huurconditie": "PER_MAAND",
+                        "huurprijs": 12000,
+                        "huurprijsCollegiaalTonen": false,
+                        "huurprijsTot": 0,
+                        "huurprijstype": "EXCL_BTW",
+                        "huurprijsvoorvoegsel": "VRAAGPRIJS",
+                        "koopconditie": null,
+                        "koopprijs": 0,
+                        "koopprijsCollegiaalTonen": false,
+                        "koopprijsvoorvoegsel": null,
+                        "servicekosten": 0,
+                        "servicekostenBtwBelast": false,
+                        "servicekostenconditie": "PER_MAAND",
+                        "veilingEinddatumEnTijd": "2023-11-22T10:55:46.225Z",
+                        "veilingSiteadres": null,
+                        "veilingSitenaam": null,
+                        "veilingStartdatumEnTijd": "2023-11-22T10:55:46.225Z",
+                        "veilingVanafprijs": 0,
+                        "veilingZoekprijs": 0,
+                        "veilingssoort": "VRIJWILLIG",
+                        "veilingstype": "BIJ_OPBOD",
+                        "wozWaarde": 0,
+                        "wozWaardePeildatum": "2023-11-22"
+                    },
+                    "transactie": {
+                        "aantalMaandenIncentives": 0,
+                        "bedrijfshalTransactieprijs": 0,
+                        "beleggerNationaliteit": "NEDERLANDS",
+                        "beleggertype": "BANK_OF_VERZEKERAAR",
+                        "contanteWaardeIncentives": 0,
+                        "datumOnderVoorbehoudTot": "2023-11-22",
+                        "datumOnderVoorbehoudVanaf": "2023-11-22",
+                        "incentives": false,
+                        "kantoorruimteTransactieprijs": 0,
+                        "ondertekeningsdatum": "2023-11-22",
+                        "overeenkomstduur": "5 JAAR",
+                        "prijsOndervoorbehoud": 0,
+                        "publicatieTransactie": false,
+                        "saleEnLeaseback": false,
+                        "sbiCode": [
+                            "LANDBOUW_JACHT_EN_DIENSTVERLENING_VOOR_DE_LANDBOUW_EN_JACHT"
+                        ],
+                        "terreinTransactieprijs": 0,
+                        "transactieOppervlakte": 0,
+                        "transactieTerOvernameBtwBelast": false,
+                        "transactieTerOvernamePersoneel": false,
+                        "transactieTerOvernameprijs": 0,
+                        "transactiedatum": "2023-11-22",
+                        "transactieprijs": 0,
+                        "transactieprijsconditie": "KOSTEN_KOPER",
+                        "transportdatum": "2023-11-22",
+                        "verhuurdOnderVoorbehoudConditie": "PER_MAAND",
+                        "verhuurprijsconditie": "PER_MAAND",
+                        "verkochtOnderVoorbehoudConditie": "KOSTEN_KOPER",
+                        "vestigingsreden": "INKRIMPING"
+                    }
+                }
+            },
+            "gebouwdetails": {
+                "bouwjaar": {
+                    "bogInAanbouw": false,
+                    "bouwjaar1": null,
+                    "bouwjaaromschrijving1": null,
+                    "bouwperiode": "TOT_1906"
+                },
+                "energielabel": {
+                    "energieEinddatum": "2023-11-22",
+                    "energieindex": 0,
+                    "energieklasse": "A",
+                    "epc": 0
+                },
+                "epc": 0,
+                "gebouwnaam": "BAKKER",
+                "lokatie": {
+                    "bereikbaarheid": {
+                        "bereikbaarheidBushalte": "OP_1000_M_OF_MEER",
+                        "bereikbaarheidBusknooppunt": "OP_5000_M_OF_MEER",
+                        "bereikbaarheidMetrohalte": "OP_200000_M_OF_MEER",
+                        "bereikbaarheidMetroknooppunt": null,
+                        "bereikbaarheidNsStation": "OP_5000_M_OF_MEER",
+                        "bereikbaarheidNsVoorHalte": "OP_5000_M_OF_MEER",
+                        "bereikbaarheidSnelwegafrit": "OP_5000_M_OF_MEER",
+                        "bereikbaarheidTramhalte": "OP_5000_M_OF_MEER",
+                        "bereikbaarheidTramknooppunt": "OP_5000_M_OF_MEER",
+                        "voorzieningBankaantal": 0,
+                        "voorzieningBankafstand": "OP_5000_M_OF_MEER",
+                        "voorzieningOntspanningAantal": 0,
+                        "voorzieningOntspanningAfstand": "OP_5000_M_OF_MEER",
+                        "voorzieningRestaurantAantal": 0,
+                        "voorzieningRestaurantAfstand": "OP_5000_M_OF_MEER",
+                        "voorzieningWinkelAantal": 0,
+                        "voorzieningWinkelAfstand": "OP_5000_M_OF_MEER"
+                    },
+                    "ligging": [
+                        "BEDRIJVENTERREIN"
+                    ],
+                    "liggingskenmerk": [
+                        "STATIONSLOCATIE"
+                    ],
+                    "lokatietoelichting": {
+                        "lokatietoelichting": "string"
+                    },
+                    "parkeren": {
+                        "nietOverdekteParkeerplaatsenAantal": "string",
+                        "nietOverdekteParkeerplaatsenBtw": false,
+                        "nietOverdekteParkeerplaatsenPrijs": 0,
+                        "overdekteParkeerplaatsenAantal": 0,
+                        "overdekteParkeerplaatsenBtw": false,
+                        "overdekteParkeerplaatsenPrijs": 0,
+                        "parkeerfaciliteiten": "string"
+                    }
+                },
+                "onderhoud": {
+                    "onderhoudsomschrijvingBinnen": "GOED",
+                    "onderhoudsomschrijvingBuiten": "MIDDEL_TOT_SLECHT",
+                    "onderhoudswaarderingBinnen": "SLECHT",
+                    "onderhoudswaarderingBuiten": "SLECHT"
+                }
+            },
+            "huisnummer": "300",
+            "huisnummerReeksBegin": "1",
+            "huisnummerReeksEind": "18",
+            "huisnummertoevoeging": null,
+            "id": 8287821,
+            "kenmerken": {
+                "hoofdfunctie": "WINKELRUIMTE"
+            },
+            "land": "NEDERLAND",
+            "marketing": {
+                "publicatie": {
+                    "adresvermelding": false,
+                    "prijsvermelding": false
+                },
+                "publicatiedatum": "2023-11-22T10:55:46.225Z"
+            },
+            "media": [
+                {
+                    "link": "https://tripleproperty-modern.plesk5.triplepro.dev/wp-content/uploads/2023/11/bog_foto_4.jpg",
+                    "mimetype": "image/jpg",
+                    "omschrijving": null,
+                    "soort": "HOOFDFOTO",
+                    "titel": "foto",
+                    "volgnummer": 1,
+                    "vrijgave": true,
+                    "wijzigingstijdstip": "2023-11-22T10:55:46.225Z"
+                },
+                {
+                    "link": "https://tripleproperty-modern.plesk5.triplepro.dev/wp-content/uploads/2023/11/bog_foto_5.jpg",
+                    "mimetype": "image/jpg",
+                    "omschrijving": null,
+                    "soort": "FOTO",
+                    "titel": "foto",
+                    "volgnummer": 2,
+                    "vrijgave": true,
+                    "wijzigingstijdstip": "2023-11-22T10:55:46.225Z"
+                },
+                {
+                    "link": "https://tripleproperty-modern.plesk5.triplepro.dev/wp-content/uploads/2023/11/bog_foto_6.jpg",
+                    "mimetype": "image/jpg",
+                    "omschrijving": null,
+                    "soort": "FOTO",
+                    "titel": "foto",
+                    "volgnummer": 3,
+                    "vrijgave": true,
+                    "wijzigingstijdstip": "2023-11-22T10:55:46.225Z"
+                },
+                {
+                    "link": "https://tripleproperty-modern.plesk5.triplepro.dev/wp-content/uploads/2023/11/bog_foto_3.jpg",
+                    "mimetype": "image/jpg",
+                    "omschrijving": null,
+                    "soort": "FOTO",
+                    "titel": "foto",
+                    "volgnummer": 4,
+                    "vrijgave": true,
+                    "wijzigingstijdstip": "2023-11-22T10:55:46.225Z"
+                },
+                {
+                    "link": "https://tripleproperty-modern.plesk5.triplepro.dev/wp-content/uploads/2023/11/bog_foto_2.jpg",
+                    "mimetype": "image/jpg",
+                    "omschrijving": null,
+                    "soort": "FOTO",
+                    "titel": "foto",
+                    "volgnummer": 5,
+                    "vrijgave": true,
+                    "wijzigingstijdstip": "2023-11-22T10:55:46.225Z"
+                },
+                {
+                    "link": "https://tripleproperty-modern.plesk5.triplepro.dev/wp-content/uploads/2023/11/bog_foto_1.jpg",
+                    "mimetype": "image/jpg",
+                    "omschrijving": null,
+                    "soort": "FOTO",
+                    "titel": "foto",
+                    "volgnummer": 6,
+                    "vrijgave": true,
+                    "wijzigingstijdstip": "2023-11-22T10:55:46.225Z"
+                }
+            ],
+            "object": {
+                "functies": [
+                    {
+                        "actief": false,
+                        "bedrijfsruimte": {
+                            "bedrijfshal": {
+                                "bedrijfshalBtwBelast": false,
+                                "bedrijfshalLuchtbehandelingen": [
+                                    "AIRCO"
+                                ],
+                                "bedrijfshalPrijs": 0,
+                                "bedrijfshalVoorzieningen": [
+                                    "LICHTSTRATEN"
+                                ],
+                                "bedrijfshalVrijeHoogte": 0,
+                                "bedrijfshalVrijeOverspanning": 0,
+                                "bedrijfshalVrijeVloerbelasting": 0,
+                                "kantoorruimteAanwezig": false,
+                                "logistiekeFunctie": false,
+                                "oppervlakte": 0,
+                                "terreinAanwezig": false,
+                                "unitsVanaf": 0
+                            },
+                            "bedrijfsruimteKantoorruimte": {
+                                "kantoorruimteAantalVerdiepingen": 0,
+                                "kantoorruimteBtwBelast": false,
+                                "kantoorruimteLuchtbehandeling": [
+                                    "AIRCO"
+                                ],
+                                "kantoorruimteOppervlakte": 0,
+                                "kantoorruimtePrijs": 0,
+                                "kantoorruimteVoorzieningen": [
+                                    "INBOUWARMATUREN"
+                                ]
+                            },
+                            "terrein": {
+                                "terreinBouwhoogte": 0,
+                                "terreinBtwBelast": false,
+                                "terreinOppervlakte": 0,
+                                "terreinPrijs": 0,
+                                "terreinUitbreidingsmogelijkheid": 0,
+                                "terreinUitbreidingsmogelijkheidtype": "PROCENTUEEL"
+                            }
+                        },
+                        "belegging": {
+                            "aantalHuurders": 0,
+                            "aantalZelfstandigeVerhuurbareEenheden": 0,
+                            "beleggingstype": "WINKELRUIMTE",
+                            "brutoAanvangsrendement": 0,
+                            "brutoHuuropbrengstKaleHuur": 0,
+                            "grondcategorie": "BOUWGROND",
+                            "horecasectoren": [
+                                "DRANKENSECTOR"
+                            ],
+                            "leegstand": {
+                                "leegstandHuurwaarde": 0,
+                                "leegstandVierkanteMeters": 0
+                            },
+                            "oppervlakte": 0,
+                            "portefeuille": false,
+                            "regio": [
+                                "DRENTHE"
+                            ],
+                            "resterendeLooptijdContractInMaanden": 0,
+                            "tonenAdres": false,
+                            "woonruimte": {
+                                "leegstandAantalWooneenheden": 0,
+                                "woonruimtetype": "APPARTEMENT"
+                            }
+                        },
+                        "bouwgrond": {
+                            "bebouwingsmogelijkheid": "BEDRIJFSRUIMTE",
+                            "bouwhoogte": 0,
+                            "bouwvolume": 0,
+                            "bouwvolumetype": "PROCENTUEEL",
+                            "unitsVanaf": 0
+                        },
+                        "horeca": {
+                            "gelegenOpVerdiepingen": [
+                                "_MINUS_2"
+                            ],
+                            "horecaConcentratiegebied": false,
+                            "oppervlakte": 0,
+                            "regio": [
+                                "DRENTHE"
+                            ],
+                            "sectoren": [
+                                {
+                                    "aantalHotelkamers": 0,
+                                    "horecaTypen": [
+                                        "CAFE"
+                                    ],
+                                    "horecaruimteOppervlakte": 0,
+                                    "huidigAantalZitplaatsen": 0,
+                                    "huurinkomstenWoonruimtePerJaar": 0,
+                                    "nietHorecaruimteOppervlakte": 0,
+                                    "omzetLaatsteBoekjaar": 0,
+                                    "terras": false,
+                                    "type": "DRANKENSECTOR",
+                                    "woningoppervlakte": 0,
+                                    "woonruimteAanwezig": false
+                                }
+                            ],
+                            "terOvername": false,
+                            "terOvernameBtwBelast": false,
+                            "terOvernamePersoneel": false,
+                            "terOvernamePrijs": 0,
+                            "verkoopVloeroppervlakte": 0
+                        },
+                        "invoerdatum": "2023-11-22T10:55:46.225Z",
+                        "kantoorruimte": {
+                            "aantalVerdiepingen": 0,
+                            "flexplek": false,
+                            "luchtbehandeling": [
+                                "AIRCO"
+                            ],
+                            "meetcertificaatAanwezig": false,
+                            "oppervlakte": 0,
+                            "turnkey": false,
+                            "unitsVanaf": 0,
+                            "verzamelgebouwen": [
+                                "RECEPTIE"
+                            ],
+                            "voorzieningen": [
+                                "INBOUWARMATUREN"
+                            ]
+                        },
+                        "leisure": {
+                            "aantalStaanplaatsen": 0,
+                            "aantalVerblijven": 0,
+                            "capaciteitInPersonen": 0,
+                            "jaarplaatsen": false,
+                            "leisuretype": "CAMPING",
+                            "leisurevoorzieningen": [
+                                "KAMPWINKEL"
+                            ],
+                            "oppervlakte": 0,
+                            "terOvername": false,
+                            "terOvernameBtwBelast": false,
+                            "terOvernamePersoneel": false,
+                            "terOvernamePrijs": 0,
+                            "woonobjectAanwezig": false
+                        },
+                        "maatschappelijkvastgoed": {
+                            "instellingen": [
+                                {
+                                    "aantalPlaatsen": 0,
+                                    "aantalZorgWooneenheden": 0,
+                                    "bestemmingstype": "MAATSCHAPPELIJK",
+                                    "btwBelast": false,
+                                    "herbestemmingMogelijk": false,
+                                    "huisvestingsvorm": "GROEPSWONEN",
+                                    "oppervlakte": 0,
+                                    "praktijkruimte": false,
+                                    "sanitair": "INDIVIDUEEL",
+                                    "terugleveringVanDiensten": false,
+                                    "type": "ZORGINSTELLING",
+                                    "voorzieningen": [
+                                        "BRANDMELDINSTALLATIE_MET_DOORSCHAKELING_AANWEZIG"
+                                    ],
+                                    "woonruimteAanwezig": false
+                                }
+                            ]
+                        },
+                        "overige": {
+                            "aantalVerdiepingen": 0,
+                            "categorie": "GARAGEBOX",
+                            "oppervlakte": 0,
+                            "unitsVanaf": 0
+                        },
+                        "type": "WINKELRUIMTE",
+                        "verhardBuitenTerrein": {
+                            "afsluitbaar": false,
+                            "omheind": false,
+                            "percentageVerhard": 0,
+                            "verhardingstype": "STELCON_PLATEN"
+                        },
+                        "wijzigingsdatum": "2023-11-22T10:55:46.226Z",
+                        "winkelruimte": {
+                            "aantalVerdiepingen": 0,
+                            "bijdrageWinkeliersvereniging": false,
+                            "branchebeperking": false,
+                            "detailhandel": false,
+                            "frontbreedte": 0,
+                            "horecaToegestaan": false,
+                            "oppervlakte": 0,
+                            "publieksgerichteDienstverlening": false,
+                            "showroom": false,
+                            "terOvername": false,
+                            "terOvernameBtwBelast": false,
+                            "terOvernamePersoneel": false,
+                            "terOvernamePrijs": 0,
+                            "unitsVanaf": 0,
+                            "verkoopVloeroppervlakte": 0,
+                            "verzamelgebouwen": [
+                                "RECEPTIE"
+                            ],
+                            "welstandsklasse": "A1"
+                        }
+                    }
+                ]
+            },
+            "plaats": "HOUTEN",
+            "postcode": "8815CD",
+            "provincie": "UTRECHT",
+            "relaties": {
+                "medeaanmelders": [
+                    {
+                        "nvmNummer": "string"
+                    }
+                ],
+                "relaties": [
+                    {
+                        "id": 0,
+                        "type": "string"
+                    }
+                ]
+            },
+            "status": "BESCHIKBAAR",
+            "straat": "Houtstraat",
+            "teksten": {
+                "a4Tekst": null,
+                "aanbiedingstekst": null,
+                "aanbiedingstekstEngels": null,
+                "eigenSiteTekst": "Welkom bij dit unieke bedrijfspand dat een perfecte combinatie biedt van moderniteit, functionaliteit en stijl. Dit pand, gelegen op een strategische locatie, vormt de ideale ruimte voor uw onderneming om te gedijen en te groeien. \n Met zijn eigentijdse architectuur en doordachte ontwerp biedt dit bedrijfspand een veelzijdige omgeving die zich aanpast aan verschillende bedrijfsbehoeften. De ruime indeling biedt mogelijkheden voor kantoren, vergaderruimtes en creatieve werkplekken, terwijl de grote ramen zorgen voor overvloedig natuurlijk licht, wat bijdraagt aan een stimulerende werkomgeving. \n Bovendien is de locatie van dit pand uitermate gunstig, met uitstekende bereikbaarheid en zichtbaarheid, waardoor het gemakkelijk toegankelijk is voor medewerkers, klanten en partners. \n Of uw bedrijf nu op zoek is naar een inspirerende werkruimte, een dynamische plek om te innoveren, of een strategische locatie om klanten aan te trekken, dit bedrijfspand biedt de juiste ingrediënten voor succes. \n Maak vandaag nog een afspraak om deze unieke ruimte te bezichtigen en ontdek hoe dit bedrijfspand kan bijdragen aan de groei en het succes van uw onderneming.",
+                "flyertekst": null
+            },
+            "tijdstipLaatsteWijziging": "2007-12-03 10:15:30"
+        },
+        {
+            "bedrijfscode": "0924922",
+            "diversen": {
+                "diversen": {
+                    "actief": false,
+                    "afdelingscode": "9298323",
+                    "bouwjaar2": 1993,
+                    "bouwjaar3": 2003,
+                    "bouwjaar4": null,
+                    "bouwjaar5": null,
+                    "bouwjaaromschrijving2": "Gebouwd in 1993 onder voorwaarde ....",
+                    "bouwjaaromschrijving3": null,
+                    "bouwjaaromschrijving4": null,
+                    "bouwjaaromschrijving5": null,
+                    "bouwvorm": "NIEUWBOUW",
+                    "collegialeInformatie": null,
+                    "eigenBelang": false,
+                    "informatieplicht": [
+                        "AANSCHRIJVING_B_EN_W"
+                    ],
+                    "invoerdatum": "2023-11-22",
+                    "objectcode": "EG223271",
+                    "situatie": "INPANDIG",
+                    "status": "GEEN_WOONRUIMTE_AANWEZIG",
+                    "tiaraDossierId": 0,
+                    "tiaraObjectGuid": null,
+                    "tiaraObjectId": null,
+                    "transactietoelichting": null,
+                    "type": "BEDRIJFSRUIMTE",
+                    "vertrouwelijk": false,
+                    "wijzigingsdatum": "2023-11-22T10:55:46.225Z",
+                    "woonoppervlak": null
+                },
+                "kadaster": [
+                    {
+                        "kadastergegevens": {
+                            "aandeel": "A323",
+                            "afgekochtTot": "2023-11-22",
+                            "afkoopoptie": false,
+                            "eeuwigAfgekocht": false,
+                            "eigendomssoort": "VOLLE_EIGENDOM",
+                            "einddatum": "2023-11-22T10:55:46.225Z",
+                            "erfpachtPerJaar": 0,
+                            "erfpachtduur": "EEUWIG",
+                            "erfpachtgever": "GEMEENTE",
+                            "erfpachtprijsvorm": "VARIABEL",
+                            "gemeente": "VLISSINGEN",
+                            "gemeentecode": "12334",
+                            "indexnummer": "12334",
+                            "invoerdatum": "2023-11-22",
+                            "omvang": "GEHEEL_PERCEEL",
+                            "oppervlakte": 0,
+                            "perceel": "A323",
+                            "sectie": null,
+                            "wijzigingsdatum": "2023-11-22T10:55:46.225Z"
+                        }
+                    },
+                    {
+                        "kadastergegevens": {
+                            "aandeel": "A324",
+                            "afgekochtTot": "2023-11-22",
+                            "afkoopoptie": false,
+                            "eeuwigAfgekocht": false,
+                            "eigendomssoort": "VOLLE_EIGENDOM",
+                            "einddatum": "2023-11-22T10:55:46.225Z",
+                            "erfpachtPerJaar": 0,
+                            "erfpachtduur": "EEUWIG",
+                            "erfpachtgever": "GEMEENTE",
+                            "erfpachtprijsvorm": "VARIABEL",
+                            "gemeente": "VLISSINGEN",
+                            "gemeentecode": "12335",
+                            "indexnummer": "12335",
+                            "invoerdatum": "2023-11-22",
+                            "omvang": "GEHEEL_PERCEEL",
+                            "oppervlakte": 0,
+                            "perceel": "A323",
+                            "sectie": null,
+                            "wijzigingsdatum": "2023-11-22T10:55:46.225Z"
+                        }
+                    }
+                ]
+            },
+            "financieel": {
+                "overdracht": {
+                    "koopEnOfHuur": {
+                        "aanmeldingsreden": "IN_VERKOOP_GENOMEN",
+                        "aanvaarding": "IN_OVERLEG",
+                        "aanvaardingsdatum": "2023-11-22",
+                        "aanvaardingstoelichting": null,
+                        "bouwrente": false,
+                        "btwVanToepassing": false,
+                        "huurconditie": "PER_MAAND",
+                        "huurprijs": 15000,
+                        "huurprijsCollegiaalTonen": false,
+                        "huurprijsTot": 0,
+                        "huurprijstype": "EXCL_BTW",
+                        "huurprijsvoorvoegsel": "VRAAGPRIJS",
+                        "koopconditie": null,
+                        "koopprijs": 0,
+                        "koopprijsCollegiaalTonen": false,
+                        "koopprijsvoorvoegsel": null,
+                        "servicekosten": 0,
+                        "servicekostenBtwBelast": false,
+                        "servicekostenconditie": "PER_MAAND",
+                        "veilingEinddatumEnTijd": "2023-11-22T10:55:46.225Z",
+                        "veilingSiteadres": null,
+                        "veilingSitenaam": null,
+                        "veilingStartdatumEnTijd": "2023-11-22T10:55:46.225Z",
+                        "veilingVanafprijs": 0,
+                        "veilingZoekprijs": 0,
+                        "veilingssoort": "VRIJWILLIG",
+                        "veilingstype": "BIJ_OPBOD",
+                        "wozWaarde": 0,
+                        "wozWaardePeildatum": "2023-11-22"
+                    },
+                    "transactie": {
+                        "aantalMaandenIncentives": 0,
+                        "bedrijfshalTransactieprijs": 0,
+                        "beleggerNationaliteit": "NEDERLANDS",
+                        "beleggertype": "BANK_OF_VERZEKERAAR",
+                        "contanteWaardeIncentives": 0,
+                        "datumOnderVoorbehoudTot": "2023-11-22",
+                        "datumOnderVoorbehoudVanaf": "2023-11-22",
+                        "incentives": false,
+                        "kantoorruimteTransactieprijs": 0,
+                        "ondertekeningsdatum": "2023-11-22",
+                        "overeenkomstduur": "5 JAAR",
+                        "prijsOndervoorbehoud": 0,
+                        "publicatieTransactie": false,
+                        "saleEnLeaseback": false,
+                        "sbiCode": [
+                            "LANDBOUW_JACHT_EN_DIENSTVERLENING_VOOR_DE_LANDBOUW_EN_JACHT"
+                        ],
+                        "terreinTransactieprijs": 0,
+                        "transactieOppervlakte": 0,
+                        "transactieTerOvernameBtwBelast": false,
+                        "transactieTerOvernamePersoneel": false,
+                        "transactieTerOvernameprijs": 0,
+                        "transactiedatum": "2023-11-22",
+                        "transactieprijs": 0,
+                        "transactieprijsconditie": "KOSTEN_KOPER",
+                        "transportdatum": "2023-11-22",
+                        "verhuurdOnderVoorbehoudConditie": "PER_MAAND",
+                        "verhuurprijsconditie": "PER_MAAND",
+                        "verkochtOnderVoorbehoudConditie": "KOSTEN_KOPER",
+                        "vestigingsreden": "INKRIMPING"
+                    }
+                }
+            },
+            "gebouwdetails": {
+                "bouwjaar": {
+                    "bogInAanbouw": false,
+                    "bouwjaar1": null,
+                    "bouwjaaromschrijving1": null,
+                    "bouwperiode": "TOT_1906"
+                },
+                "energielabel": {
+                    "energieEinddatum": "2023-11-22",
+                    "energieindex": 0,
+                    "energieklasse": "A",
+                    "epc": 0
+                },
+                "epc": 0,
+                "gebouwnaam": "BAKKER",
+                "lokatie": {
+                    "bereikbaarheid": {
+                        "bereikbaarheidBushalte": "OP_1000_M_OF_MEER",
+                        "bereikbaarheidBusknooppunt": "OP_5000_M_OF_MEER",
+                        "bereikbaarheidMetrohalte": "OP_200000_M_OF_MEER",
+                        "bereikbaarheidMetroknooppunt": null,
+                        "bereikbaarheidNsStation": "OP_5000_M_OF_MEER",
+                        "bereikbaarheidNsVoorHalte": "OP_5000_M_OF_MEER",
+                        "bereikbaarheidSnelwegafrit": "OP_5000_M_OF_MEER",
+                        "bereikbaarheidTramhalte": "OP_5000_M_OF_MEER",
+                        "bereikbaarheidTramknooppunt": "OP_5000_M_OF_MEER",
+                        "voorzieningBankaantal": 0,
+                        "voorzieningBankafstand": "OP_5000_M_OF_MEER",
+                        "voorzieningOntspanningAantal": 0,
+                        "voorzieningOntspanningAfstand": "OP_5000_M_OF_MEER",
+                        "voorzieningRestaurantAantal": 0,
+                        "voorzieningRestaurantAfstand": "OP_5000_M_OF_MEER",
+                        "voorzieningWinkelAantal": 0,
+                        "voorzieningWinkelAfstand": "OP_5000_M_OF_MEER"
+                    },
+                    "ligging": [
+                        "BEDRIJVENTERREIN"
+                    ],
+                    "liggingskenmerk": [
+                        "STATIONSLOCATIE"
+                    ],
+                    "lokatietoelichting": {
+                        "lokatietoelichting": "string"
+                    },
+                    "parkeren": {
+                        "nietOverdekteParkeerplaatsenAantal": "string",
+                        "nietOverdekteParkeerplaatsenBtw": false,
+                        "nietOverdekteParkeerplaatsenPrijs": 0,
+                        "overdekteParkeerplaatsenAantal": 0,
+                        "overdekteParkeerplaatsenBtw": false,
+                        "overdekteParkeerplaatsenPrijs": 0,
+                        "parkeerfaciliteiten": "string"
+                    }
+                },
+                "onderhoud": {
+                    "onderhoudsomschrijvingBinnen": "GOED",
+                    "onderhoudsomschrijvingBuiten": "MIDDEL_TOT_SLECHT",
+                    "onderhoudswaarderingBinnen": "SLECHT",
+                    "onderhoudswaarderingBuiten": "SLECHT"
+                }
+            },
+            "huisnummer": "88",
+            "huisnummerReeksBegin": null,
+            "huisnummerReeksEind": null,
+            "huisnummertoevoeging": "A",
+            "id": 8287822,
+            "kenmerken": {
+                "hoofdfunctie": "WINKELRUIMTE"
+            },
+            "land": "NEDERLAND",
+            "marketing": {
+                "publicatie": {
+                    "adresvermelding": false,
+                    "prijsvermelding": false
+                },
+                "publicatiedatum": "2023-11-22T10:55:46.225Z"
+            },
+            "media": [
+                {
+                    "link": "https://tripleproperty-modern.plesk5.triplepro.dev/wp-content/uploads/2023/11/bog_foto_4.jpg",
+                    "mimetype": "image/jpg",
+                    "omschrijving": null,
+                    "soort": "HOOFDFOTO",
+                    "titel": "foto",
+                    "volgnummer": 1,
+                    "vrijgave": true,
+                    "wijzigingstijdstip": "2023-11-22T10:55:46.225Z"
+                },
+                {
+                    "link": "https://tripleproperty-modern.plesk5.triplepro.dev/wp-content/uploads/2023/11/bog_foto_5.jpg",
+                    "mimetype": "image/jpg",
+                    "omschrijving": null,
+                    "soort": "FOTO",
+                    "titel": "foto",
+                    "volgnummer": 2,
+                    "vrijgave": true,
+                    "wijzigingstijdstip": "2023-11-22T10:55:46.225Z"
+                },
+                {
+                    "link": "https://tripleproperty-modern.plesk5.triplepro.dev/wp-content/uploads/2023/11/bog_foto_6.jpg",
+                    "mimetype": "image/jpg",
+                    "omschrijving": null,
+                    "soort": "FOTO",
+                    "titel": "foto",
+                    "volgnummer": 3,
+                    "vrijgave": true,
+                    "wijzigingstijdstip": "2023-11-22T10:55:46.225Z"
+                },
+                {
+                    "link": "https://tripleproperty-modern.plesk5.triplepro.dev/wp-content/uploads/2023/11/bog_foto_3.jpg",
+                    "mimetype": "image/jpg",
+                    "omschrijving": null,
+                    "soort": "FOTO",
+                    "titel": "foto",
+                    "volgnummer": 4,
+                    "vrijgave": true,
+                    "wijzigingstijdstip": "2023-11-22T10:55:46.225Z"
+                },
+                {
+                    "link": "https://tripleproperty-modern.plesk5.triplepro.dev/wp-content/uploads/2023/11/bog_foto_2.jpg",
+                    "mimetype": "image/jpg",
+                    "omschrijving": null,
+                    "soort": "FOTO",
+                    "titel": "foto",
+                    "volgnummer": 5,
+                    "vrijgave": true,
+                    "wijzigingstijdstip": "2023-11-22T10:55:46.225Z"
+                },
+                {
+                    "link": "https://tripleproperty-modern.plesk5.triplepro.dev/wp-content/uploads/2023/11/bog_foto_1.jpg",
+                    "mimetype": "image/jpg",
+                    "omschrijving": null,
+                    "soort": "FOTO",
+                    "titel": "foto",
+                    "volgnummer": 6,
+                    "vrijgave": true,
+                    "wijzigingstijdstip": "2023-11-22T10:55:46.225Z"
+                }
+            ],
+            "object": {
+                "functies": [
+                    {
+                        "actief": false,
+                        "bedrijfsruimte": {
+                            "bedrijfshal": {
+                                "bedrijfshalBtwBelast": false,
+                                "bedrijfshalLuchtbehandelingen": [
+                                    "AIRCO"
+                                ],
+                                "bedrijfshalPrijs": 0,
+                                "bedrijfshalVoorzieningen": [
+                                    "LICHTSTRATEN"
+                                ],
+                                "bedrijfshalVrijeHoogte": 0,
+                                "bedrijfshalVrijeOverspanning": 0,
+                                "bedrijfshalVrijeVloerbelasting": 0,
+                                "kantoorruimteAanwezig": false,
+                                "logistiekeFunctie": false,
+                                "oppervlakte": 0,
+                                "terreinAanwezig": false,
+                                "unitsVanaf": 0
+                            },
+                            "bedrijfsruimteKantoorruimte": {
+                                "kantoorruimteAantalVerdiepingen": 0,
+                                "kantoorruimteBtwBelast": false,
+                                "kantoorruimteLuchtbehandeling": [
+                                    "AIRCO"
+                                ],
+                                "kantoorruimteOppervlakte": 0,
+                                "kantoorruimtePrijs": 0,
+                                "kantoorruimteVoorzieningen": [
+                                    "INBOUWARMATUREN"
+                                ]
+                            },
+                            "terrein": {
+                                "terreinBouwhoogte": 0,
+                                "terreinBtwBelast": false,
+                                "terreinOppervlakte": 0,
+                                "terreinPrijs": 0,
+                                "terreinUitbreidingsmogelijkheid": 0,
+                                "terreinUitbreidingsmogelijkheidtype": "PROCENTUEEL"
+                            }
+                        },
+                        "belegging": {
+                            "aantalHuurders": 0,
+                            "aantalZelfstandigeVerhuurbareEenheden": 0,
+                            "beleggingstype": "WINKELRUIMTE",
+                            "brutoAanvangsrendement": 0,
+                            "brutoHuuropbrengstKaleHuur": 0,
+                            "grondcategorie": "BOUWGROND",
+                            "horecasectoren": [
+                                "DRANKENSECTOR"
+                            ],
+                            "leegstand": {
+                                "leegstandHuurwaarde": 0,
+                                "leegstandVierkanteMeters": 0
+                            },
+                            "oppervlakte": 0,
+                            "portefeuille": false,
+                            "regio": [
+                                "DRENTHE"
+                            ],
+                            "resterendeLooptijdContractInMaanden": 0,
+                            "tonenAdres": false,
+                            "woonruimte": {
+                                "leegstandAantalWooneenheden": 0,
+                                "woonruimtetype": "APPARTEMENT"
+                            }
+                        },
+                        "bouwgrond": {
+                            "bebouwingsmogelijkheid": "BEDRIJFSRUIMTE",
+                            "bouwhoogte": 0,
+                            "bouwvolume": 0,
+                            "bouwvolumetype": "PROCENTUEEL",
+                            "unitsVanaf": 0
+                        },
+                        "horeca": {
+                            "gelegenOpVerdiepingen": [
+                                "_MINUS_2"
+                            ],
+                            "horecaConcentratiegebied": false,
+                            "oppervlakte": 0,
+                            "regio": [
+                                "DRENTHE"
+                            ],
+                            "sectoren": [
+                                {
+                                    "aantalHotelkamers": 0,
+                                    "horecaTypen": [
+                                        "CAFE"
+                                    ],
+                                    "horecaruimteOppervlakte": 0,
+                                    "huidigAantalZitplaatsen": 0,
+                                    "huurinkomstenWoonruimtePerJaar": 0,
+                                    "nietHorecaruimteOppervlakte": 0,
+                                    "omzetLaatsteBoekjaar": 0,
+                                    "terras": false,
+                                    "type": "DRANKENSECTOR",
+                                    "woningoppervlakte": 0,
+                                    "woonruimteAanwezig": false
+                                }
+                            ],
+                            "terOvername": false,
+                            "terOvernameBtwBelast": false,
+                            "terOvernamePersoneel": false,
+                            "terOvernamePrijs": 0,
+                            "verkoopVloeroppervlakte": 0
+                        },
+                        "invoerdatum": "2023-11-22T10:55:46.225Z",
+                        "kantoorruimte": {
+                            "aantalVerdiepingen": 0,
+                            "flexplek": false,
+                            "luchtbehandeling": [
+                                "AIRCO"
+                            ],
+                            "meetcertificaatAanwezig": false,
+                            "oppervlakte": 0,
+                            "turnkey": false,
+                            "unitsVanaf": 0,
+                            "verzamelgebouwen": [
+                                "RECEPTIE"
+                            ],
+                            "voorzieningen": [
+                                "INBOUWARMATUREN"
+                            ]
+                        },
+                        "leisure": {
+                            "aantalStaanplaatsen": 0,
+                            "aantalVerblijven": 0,
+                            "capaciteitInPersonen": 0,
+                            "jaarplaatsen": false,
+                            "leisuretype": "CAMPING",
+                            "leisurevoorzieningen": [
+                                "KAMPWINKEL"
+                            ],
+                            "oppervlakte": 0,
+                            "terOvername": false,
+                            "terOvernameBtwBelast": false,
+                            "terOvernamePersoneel": false,
+                            "terOvernamePrijs": 0,
+                            "woonobjectAanwezig": false
+                        },
+                        "maatschappelijkvastgoed": {
+                            "instellingen": [
+                                {
+                                    "aantalPlaatsen": 0,
+                                    "aantalZorgWooneenheden": 0,
+                                    "bestemmingstype": "MAATSCHAPPELIJK",
+                                    "btwBelast": false,
+                                    "herbestemmingMogelijk": false,
+                                    "huisvestingsvorm": "GROEPSWONEN",
+                                    "oppervlakte": 0,
+                                    "praktijkruimte": false,
+                                    "sanitair": "INDIVIDUEEL",
+                                    "terugleveringVanDiensten": false,
+                                    "type": "ZORGINSTELLING",
+                                    "voorzieningen": [
+                                        "BRANDMELDINSTALLATIE_MET_DOORSCHAKELING_AANWEZIG"
+                                    ],
+                                    "woonruimteAanwezig": false
+                                }
+                            ]
+                        },
+                        "overige": {
+                            "aantalVerdiepingen": 0,
+                            "categorie": "GARAGEBOX",
+                            "oppervlakte": 0,
+                            "unitsVanaf": 0
+                        },
+                        "type": "WINKELRUIMTE",
+                        "verhardBuitenTerrein": {
+                            "afsluitbaar": false,
+                            "omheind": false,
+                            "percentageVerhard": 0,
+                            "verhardingstype": "STELCON_PLATEN"
+                        },
+                        "wijzigingsdatum": "2023-11-22T10:55:46.226Z",
+                        "winkelruimte": {
+                            "aantalVerdiepingen": 0,
+                            "bijdrageWinkeliersvereniging": false,
+                            "branchebeperking": false,
+                            "detailhandel": false,
+                            "frontbreedte": 0,
+                            "horecaToegestaan": false,
+                            "oppervlakte": 0,
+                            "publieksgerichteDienstverlening": false,
+                            "showroom": false,
+                            "terOvername": false,
+                            "terOvernameBtwBelast": false,
+                            "terOvernamePersoneel": false,
+                            "terOvernamePrijs": 0,
+                            "unitsVanaf": 0,
+                            "verkoopVloeroppervlakte": 0,
+                            "verzamelgebouwen": [
+                                "RECEPTIE"
+                            ],
+                            "welstandsklasse": "A1"
+                        }
+                    }
+                ]
+            },
+            "plaats": "GRONINGEN",
+            "postcode": "9718AB",
+            "provincie": "GRONINGEN",
+            "relaties": {
+                "medeaanmelders": [
+                    {
+                        "nvmNummer": "string"
+                    }
+                ],
+                "relaties": [
+                    {
+                        "id": 0,
+                        "type": "string"
+                    }
+                ]
+            },
+            "status": "BESCHIKBAAR",
+            "straat": "Banaanstraat",
+            "teksten": {
+                "a4Tekst": null,
+                "aanbiedingstekst": null,
+                "aanbiedingstekstEngels": null,
+                "eigenSiteTekst": "Welkom bij dit unieke bedrijfspand dat een perfecte combinatie biedt van moderniteit, functionaliteit en stijl. Dit pand, gelegen op een strategische locatie, vormt de ideale ruimte voor uw onderneming om te gedijen en te groeien. \n Met zijn eigentijdse architectuur en doordachte ontwerp biedt dit bedrijfspand een veelzijdige omgeving die zich aanpast aan verschillende bedrijfsbehoeften. De ruime indeling biedt mogelijkheden voor kantoren, vergaderruimtes en creatieve werkplekken, terwijl de grote ramen zorgen voor overvloedig natuurlijk licht, wat bijdraagt aan een stimulerende werkomgeving. \n Bovendien is de locatie van dit pand uitermate gunstig, met uitstekende bereikbaarheid en zichtbaarheid, waardoor het gemakkelijk toegankelijk is voor medewerkers, klanten en partners. \n Of uw bedrijf nu op zoek is naar een inspirerende werkruimte, een dynamische plek om te innoveren, of een strategische locatie om klanten aan te trekken, dit bedrijfspand biedt de juiste ingrediënten voor succes. \n Maak vandaag nog een afspraak om deze unieke ruimte te bezichtigen en ontdek hoe dit bedrijfspand kan bijdragen aan de groei en het succes van uw onderneming.",
+                "flyertekst": null
+            },
+            "tijdstipLaatsteWijziging": "2007-12-03 10:15:30"
+        }
+    ],
+    "paginering": {
+        "totaalAantal": 2
+    }
+}
