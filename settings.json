@@ -1,0 +1,33 @@
+{
+    "baseUrl": "https://api.realworks.nl",
+    "mode": "production",
+    "mediaDirName": "media",
+    "endpoints": [
+        {
+            "name": "woningen",
+            "hasMedia": true,
+            "version": "v2",
+            "type": "objecten",
+            "path": "/wonen/v2/objecten",
+            "baseTable": "adres"
+        },
+        {
+            "name": "relaties",
+            "hasMedia": false,
+            "version": "v1",
+            "type": "medewerker",
+            "path": "/relaties/v1/medewerker",
+            "baseTable": "singles"
+        },
+        {
+            "name": "aankoop",
+            "hasMedia": true,
+            "version": "v2",
+            "type": "objecten",
+            "path": "/aankoop/v2/objecten/905837",
+            "baseTable": "aankoopWoning"
+        }
+    ],
+    "database": "mariadb",
+    "mimetype": "image/webp"
+}
